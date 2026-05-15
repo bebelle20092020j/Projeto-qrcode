@@ -117,3 +117,10 @@ src/
 ## Observacoes
 
 O arquivo `.env` nao deve ser enviado para o GitHub, porque ele guarda configuracoes locais. Por isso, o projeto inclui `.env.example` como modelo para quem baixar o repositorio.
+
+## Feito por
+
+<a href="https://github.com/bebelle20092020j" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Isabelle%20Macedo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Isabelle Macedo">
+</a>
+
